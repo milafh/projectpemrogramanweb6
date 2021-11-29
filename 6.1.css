@@ -1,0 +1,22 @@
+#container{
+    padding:100px;
+}
+img {
+    width: 15%;
+    padding: 50px;
+    margin: 0em;
+}
+
+.atas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.bawah {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

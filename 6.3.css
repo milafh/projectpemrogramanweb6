@@ -1,0 +1,35 @@
+*{
+    padding: 25px;
+}
+#container {
+    background-color:lightcoral;
+    padding: 20px;
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    
+}
+img{
+    width: 15%;
+}
+
+header,footer{
+    background-color: deepskyblue;
+    width: auto;
+    height: 100px;
+}
+aside{
+    background-color: fuchsia;
+    width: 30%;
+    height: 600px;
+}
+article{
+    background-color: greenyellow;
+    
+    height: 600px;
+}
